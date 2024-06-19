@@ -1,0 +1,17 @@
+body {
+    background-image: url(./images/kosmos.png);
+    text-align: center;
+    padding-top: 100px;
+}
+button {
+    padding: 100px 100px;
+    font-size: 16px;
+    border-radius: 50%;
+    color: aqua;
+    background-color: red;
+    opacity: 0.7;
+}
+p {
+    color:aqua;
+    font-size: 100px;
+}
